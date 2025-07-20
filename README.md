@@ -16,8 +16,8 @@ Powered by **Ruby** for elegance and crafted with **Rails** for speed, it captur
 
 - 📍 **ChronoLocator** – Mark and save key places in your coding timeline.
 - 🔍 **EpochScanner** – Search historical gems from programming eras.
-- 📝 **TimeLogs** – Journal your digital expeditions through time.
-- 🛠️ **Timeline Editor** – Refactor your journey without causing a paradox.
+- 📝 **TimeLogs** – Journal your digital expeditions through time. digital expeditions place : beach, forest, cities, lakes, outdoor  places, natural places. dangers : any danger in natural places, programming language to face dangers, or to meet other temporal voyageurs.
+- 🛠️ **Timeline Editor** – (coding editor) Refactor your journey without causing a paradox, for your future. with a coding editor, with a precise situation or danger/(something/someone) you meet  during expedition.
 - 🌐 **Portal Links** – Fork dimensions (or GitHub repos) in a click.
 
 ---
